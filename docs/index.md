@@ -1,1 +1,1 @@
-* [Useful Links](/useful-links)
+* [Useful Links](useful-links)
