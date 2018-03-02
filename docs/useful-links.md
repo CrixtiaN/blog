@@ -6,6 +6,9 @@
 
 #### Visual Studi Code Direct Download Link
 
+* <https://vscode-update.azurewebsites.net/latest/win32/stable>
+* <https://vscode-update.azurewebsites.net/latest/win32-archive/stable>
+* <https://vscode-update.azurewebsites.net/latest/linux-deb-ia32/stable>
 * https://vscode-update.azurewebsites.net/latest/win32/stable
 * https://vscode-update.azurewebsites.net/latest/win32-archive/stable
 * https://vscode-update.azurewebsites.net/latest/linux-deb-ia32/stable
