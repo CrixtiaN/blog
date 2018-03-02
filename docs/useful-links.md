@@ -4,11 +4,8 @@
 * [Opera Archive](https://download1.operacdn.com/pub/opera/desktop/)
 * [Sublime Text 3 Dev - Linux DEB 32bits](https://download.sublimetext.com/sublime-text_build-3147_i386.deb)
 
-#### Visual Studi Code Direct Download Link
+#### Visual Studio Code Direct Download Link
 
 * <https://vscode-update.azurewebsites.net/latest/win32/stable>
 * <https://vscode-update.azurewebsites.net/latest/win32-archive/stable>
 * <https://vscode-update.azurewebsites.net/latest/linux-deb-ia32/stable>
-* https://vscode-update.azurewebsites.net/latest/win32/stable
-* https://vscode-update.azurewebsites.net/latest/win32-archive/stable
-* https://vscode-update.azurewebsites.net/latest/linux-deb-ia32/stable
