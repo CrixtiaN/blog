@@ -10,3 +10,8 @@
 * <https://vscode-update.azurewebsites.net/latest/win32/stable>
 * <https://vscode-update.azurewebsites.net/latest/win32-archive/stable>
 * <https://vscode-update.azurewebsites.net/latest/linux-deb-ia32/stable>
+
+#### Google Chrome Offline Installer
+
+* [Google Chrome Stable Standlone](https://www.google.com/intl/es/chrome/thankyou.html?standalone=1&platform=win&statcb=0)
+* [Google Chrome Stable All Users](https://www.google.com/intl/es/chrome/thankyou.html?standalone=1&platform=win&statcb=0&system=true)
