@@ -3,6 +3,7 @@
 * [MyPony Silent Installer](http://download.mipony.net/downloads/MiPony-Installer-Silent.exe)
 * [Opera Archive](https://download1.operacdn.com/pub/opera/desktop/)
 * [Sublime Text 3 Dev - Linux DEB 32bits](https://download.sublimetext.com/sublime-text_build-3147_i386.deb)
+* [Node JS Downloads](https://nodejs.org/dist/latest/)
 
 #### Visual Studio Code Direct Download Link
 
